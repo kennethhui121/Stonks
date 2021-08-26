@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+  }
+
+  h1 {
+    display: grid;
+    justify-content: center;
+    font-family: 'Times New Roman', cursive;
+    font-size: 60px;
+    margin-bottom: 15px;
+  }
+
+  body {
+    margin: 0;
+    background-color: rgb(112, 184, 255);
+  }
+  
+button {
+    height: 50px;
+    width: 200px;
+    background-color: pink;
+    color: white;
+    border: 2px;
+    margin: 10px;
+    text-align: center;
+  }
+  button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  }
